@@ -3,10 +3,10 @@
 The letters ICT stand for *Information and Communication Technology.*
 It refers to technologies that provide access to information and facilitate communication. ICT includes hardware, software, networks, and digital systems that process, store, transmit, and retrieve information. 
 ### Examples of ICT include:
-•	Computers and Servers (for data processing and storage)
-•	Internet and Networks (Wi-Fi, LAN, mobile networks)
-•	Telecommunication Systems (mobile phones, VoIP, satellite communication)
-•	Software Applications (web apps, databases, cloud computing)
+- Computers and Servers (for data processing and storage)
+- Internet and Networks (Wi-Fi, LAN, mobile networks)
+- Telecommunication Systems (mobile phones, VoIP, satellite communication)
+- Software Applications (web apps, databases, cloud computing)
 ### ROLE OF ICTS IN DAILY LIFE
 ICT is widely used in various fields like education, healthcare, business, and government to improve efficiency and communication. ICT plays a significant role in daily life by making communication, information access, and various tasks more efficient. Here are some keyways ICT impacts daily life:
 #### 1. In Communication
