@@ -12,17 +12,51 @@ These are the notes for the 2023 ICT subject form 1 to form 4 class notes for le
 <table>
   <thead>
     <tr class="header">
-      <th>Syntax</th>
-      <th>Description</th>
+      <th>Major Theme</th>
+      <th>Form 1 (Competences)</th>
+      <th>Form 2 (Competences)</th>
+      <th>Form 3 (Competences)</th>
+      <th>Form 4 (Competences)</th>
     </tr>
   </thead>
   <tbody>
     <tr class="odd">
-      <td>Header</td>
-      <td>Title</td>
+      <td>1.Foundations of ICT</td>
+      <td>
+      <ul>Understand basic ICT concepts and its importance in daily life.</ul>
+      <ul>Identify and categorize computer components.</ul>
+      <ul>Use input/output devices effectively.</ul>
+      </td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
     </tr>
     <tr class="even">
-      <td>Paragraph</td>
+      <td>2.Productivity Tools</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
+    </tr>
+     <tr class="even">
+      <td>3.Programming and Algorithms</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
+    </tr>
+     <tr class="even">
+     <td>4.Communication and Networking</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
+    </tr>
+     <tr class="even">
+      <td>5.Emerging Technologies</td>
+      <td>Text</td>
+      <td>Text</td>
+      <td>Text</td>
       <td>Text</td>
     </tr>
   </tbody>
