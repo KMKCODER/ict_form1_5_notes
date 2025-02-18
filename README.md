@@ -23,9 +23,9 @@ These are the notes for the 2023 ICT subject form 1 to form 4 class notes for le
     <tr class="odd">
       <td>1.Foundations of ICT</td>
       <td>
-      <ul>Understand basic ICT concepts and its importance in daily life.</ul>
-      <ul>Identify and categorize computer components.</ul>
-      <ul>Use input/output devices effectively.</ul>
+      1. Understand basic ICT concepts and its importance in daily life.
+      2. Identify and categorize computer components.
+      3. Use input/output devices effectively.
       </td>
       <td>Text</td>
       <td>Text</td>
