@@ -27,9 +27,16 @@ These are the notes for the 2023 ICT subject form 1 to form 4 class notes for le
       <ol>2. Identify and categorize computer components.</ol>
      <ol>3. Use input/output devices effectively.</ol>
       </td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
+      <td>
+      <ol>1. Manage files and folders efficiently.</ol>
+      <ol>2. Understand operating systems and their functions.</ol>
+      <ol>3. Install basic software applications.</ol></td>
+      <td><ol>1. Optimize file storage with compression.</ol>
+      <ol>2. Encrypt files to enhance security.</ol>
+      <ol>3. Apply advanced file organization techniques.</ol></td>
+      <td><ol>1. Implement system troubleshooting techniques.</ol>
+      <ol>2. Install and configure advanced operating systems.</ol>
+      <ol>3. Ensure system security and efficiency.</ol></td>
     </tr>
     <tr class="even">
       <td>2.Productivity Tools</td>
