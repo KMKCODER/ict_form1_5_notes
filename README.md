@@ -34,31 +34,54 @@ These are the notes for the 2023 ICT subject form 1 to form 4 class notes for le
     </tr>
     <tr class="even">
       <td>2.Productivity Tools</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
+      <td><ol>1. Create and edit simple documents.</ol> 
+          <ol>2. Use basic formatting features (text, tables, bullets).</ol>
+      </td>
+      <td><ol>1. Customize document layouts (margins, columns).</ol> 
+          <ol>2. Integrate multimedia (images, tables, charts) into documents.</ol> 
+          </td>
+      <td><ol>1. Design professional reports, flyers, and newsletters.</ol>
+          <ol>2. Using advanced spreadsheet functions (SUMIF, VLOOKUP).</ol> 
+      </td>
       <td>Text</td>
     </tr>
      <tr class="even">
       <td>3.Programming and Algorithms</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
+      <td><ol>Understand basic programming concepts. - Write simple algorithms in pseudocode and flowcharts.</ol> 
+          <ol>Create basic programs using Scratch or similar tools.</ol>
+      </td>
+      <td><ol>Use structured programming concepts (loops, conditionals) in high-level languages (e.g., Python). 
+          <ol>Debug simple programs. 
+</td>
+      <td>-	Develop intermediatelevel programs using languages like Python or Java. 
+-	Apply data structures (arrays, lists). 
+</td>
+      <td>-	Create advanced software solutions for real-world problems. 
+-	Use object-oriented programming concepts
+</td>
     </tr>
      <tr class="even">
      <td>4.Communication and Networking</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
+      <td>Use email and messaging platforms responsibly. - Understand the basics of the internet and web browsing. </td>
+      <td>- Apply email etiquette. - Use collaborative tools like Google Workspace for communication and file sharing. </td>
+      <td>-	Explain networking concepts (LAN, WAN, 
+IP). 
+-	Demonstrate network troubleshooting.- Configure basic networks. 
+</td>
+      <td>Design and manage complex network systems. - Apply cybersecurity principles to ensure safe network operations. </td>
     </tr>
      <tr class="even">
       <td>5.Emerging Technologies</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
-      <td>Text</td>
+      <td>-	Explore basic concepts of mobile computing and cloud storage. 
+-	Identify current trends in ICT. 
+</td>
+      <td>-	Demonstrate the use of mobile apps and services for education and communication. 
+-	Understand cloud-based tools. 
+</td>
+      <td>-	Analyze the impact of emerging technologies like AI and IoT in reallife applications. 
+-	Exploring advanced mobile computing concepts
+</td>
+      <td>Develop solutions using emerging technologies. - Demonstrate practical applications of AI, IoT, and blockchain. </td>
     </tr>
   </tbody>
 </table>
