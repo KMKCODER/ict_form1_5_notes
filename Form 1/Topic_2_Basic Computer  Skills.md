@@ -28,32 +28,32 @@ Used for designing, editing, and creating visual content.
 Essential for managing and analyzing large datasets.
 • Microsoft Access, MySQL, Oracle – Database management
 • Microsoft Excel, Power BI, Tableau – Data visualization and analysis
-#### 5. Web & Software Development Tools
+#### 5. Web & Software Development Tools.
 Used to build websites, applications, and software.
 • Visual Studio Code, Eclipse – Coding and software development.
 •  WordPress, Wix – Website design and management.
 • Android Studio, Xcode – Mobile app development.
-#### 6. Security & Utility Software
+#### 6. Security & Utility Software.
 Protects and optimizes computer performance.
  Antivirus Software – Norton, McAfee, Windows Defender
  Backup Software – Google Drive, OneDrive, Dropbox
  System Utilities – CCleaner, Disk Cleanup
-#### 7. Accounting & Business Applications
+#### 7. Accounting & Business Applications.
 Used in business management and finance.
  QuickBooks, SAP – Accounting and enterprise resource planning (ERP)
  Trello, Asana – Project management
  Salesforce, Zoho CRM – Customer relationship management
 
-### Productivity in Using Microsoft Office Word and Excel
+### Productivity in Using Microsoft Office Word and Excel.
 Microsoft Word and Excel are powerful productivity tools that help users efficiently create, edit, and manage documents and data. Here’s how they enhance productivity:
-#### 1. Microsoft Word – Document Creation & Editing
+#### 1. Microsoft Word – Document Creation & Editing.
 Microsoft Word is widely used for creating professional documents, reports, and letters. It enhances productivity through:
 - Fast Document Formatting – Provides templates, styles, and themes for professional-looking documents.
 - Editing & Reviewing Tools – Features like spell check, grammar check, and track changes make editing easier.
 - Collaboration – Allows multiple users to edit a document simultaneously through cloud integration (OneDrive).
 - Automation – Uses macros to automate repetitive tasks like formatting or inserting standard text.
 - Table of Contents & Indexing – Helps organize large documents efficiently.
-#### 2. Microsoft Excel – Data Analysis & Management
+#### 2. Microsoft Excel – Data Analysis & Management.
 Microsoft Excel is essential for handling data, calculations, and reporting. It improves productivity through:
 - Data Entry & Organization – Spreadsheets allow easy structuring and management of data.
 - Formulas & Functions – Automates calculations using built-in functions like SUM, AVERAGE, and IF.
