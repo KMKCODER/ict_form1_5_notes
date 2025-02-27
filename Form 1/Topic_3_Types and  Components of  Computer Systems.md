@@ -1,0 +1,3 @@
+# TYPES AND COMPONENTS OF A COMPUTER SYSTEM.
+
+### Computer Hardware
