@@ -35,8 +35,8 @@ RAM is temporary storage for data and instructions actively being used by the CP
 ROM is permanent storage for firmware or BIOS, used during the boot process. ROM is a type of nonvolatile memory, meaning it retains its data even when the power is turned off. It is used to store permanent or semi-permanent data that does not need to be modified. Stores firmware or software that is essential for booting up the computer and initializing hardware.
 #### Characteristics:
 - **Non-Volatile:** Data is retained even without power.
-Read-Only: Data is typically prewritten and cannot be easily modified (though some types of ROM allow limited updates).
-Permanent Storage: Used for critical system instructions.
+- **Read-Only:** Data is typically prewritten and cannot be easily modified (though some types of ROM allow limited updates).
+- **Permanent Storage:** Used for critical system instructions.
 
 ### 3. STORAGE DEVICES
 Storage devices are hardware components used to store, retrieve, and save data permanently or temporarily in a computer system. They provide the means to keep data even when the computer is powered off, unlike volatile memory like RAM. Storage devices vary in terms of capacity, speed, and portability.
