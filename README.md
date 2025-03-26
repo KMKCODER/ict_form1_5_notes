@@ -37,4 +37,5 @@ These are notes compiled by Kapembwa Kangali for Information and Communications 
 7. Topic 4.7: Cybersecurity.
 8. Topic 4.8: Cybersecurity in Finance.
 9. Tpoic 4.9: Financial Data Managment.
+    
 _(C) KMKCODER 2025_
