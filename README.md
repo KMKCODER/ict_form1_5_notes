@@ -2,10 +2,12 @@
 ## Introduction
 These are notes compiled by Kapembwa Kangali for Information and Communications Technology from Form 1 to Form 4 levels. These can be used by teachers and pupils.
 
+Important resources
+* [ICT Syllabus 2024](res).
+
 ## Topic Outline.
 ## Form 1
-* [LINK](Form 1/)
-1. Topic 1.1: [Introduction to ICT](Form 1/).
+1. Topic 1.1: [Introduction to ICT](Form1/).
 2. Topic 1.2: Basic Computer Skills.
 3. Topic 1.3: Types and Components of a computer System.
 4. Topic 1.4: Input and Output devices.
