@@ -3,8 +3,6 @@
 These are notes compiled by Kapembwa Kangali for computer studies for grade 8 and grade 9 level. These can be used by teachers and pupils.
 
 ## Topic Outline.
-
-# Topics Structure
 ## Form 1
 1. Topic 1.1: Introduction to ICT.
 2. Topic 1.2: Basic Computer Skills.
