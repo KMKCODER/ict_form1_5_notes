@@ -1,6 +1,6 @@
 # ICT NOTES FORM 1 - FORM 4
 ## Introduction
-These are notes compiled by Kapembwa Kangali for computer studies for grade 8 and grade 9 level. These can be used by teachers and pupils.
+These are notes compiled by Kapembwa Kangali for Information and Communications Technology from Form 1 to Form 4 levels. These can be used by teachers and pupils.
 
 ## Topic Outline.
 ## Form 1
