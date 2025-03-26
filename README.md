@@ -7,7 +7,7 @@ Important resources
 
 ## Topic Outline.
 ## Form 1
-1. Topic 1.1: [Introduction to ICT](Form1/).
+1. Topic 1.1: Introduction to ICT.
 2. Topic 1.2: Basic Computer Skills.
 3. Topic 1.3: Types and Components of a computer System.
 4. Topic 1.4: Input and Output devices.
