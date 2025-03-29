@@ -57,3 +57,5 @@ Input devices are hardware components that allow users to interact with a comput
 - Allow interaction with software and applications.
 - Facilitate communication between the user and the computer.
 - Support specialized tasks like gaming, design, or data capture.
+
+## Output Devices
