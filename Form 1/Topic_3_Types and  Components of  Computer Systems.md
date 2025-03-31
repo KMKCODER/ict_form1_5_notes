@@ -43,19 +43,19 @@ Storage devices are hardware components used to store, retrieve, and save data p
 #### Secondary Storage Devices:
 Used for permanent storage of data, even when the computer is turned off. Examples: Hard Disk Drives (HDDs), Solid State Drives (SSDs), USB Flash Drives, Memory Cards.
 #### a) Hard Disk Drive (HDD):
-- Uses spinning magnetic disks to store data.
-- Advantages: High capacity, cost-effective.
-- Disadvantages: Slower than SSDs, mechanical parts can fail.
+Uses spinning magnetic disks to store data.
+- **Advantages:** High capacity, cost-effective.
+- **Disadvantages:** Slower than SSDs, mechanical parts can fail.
 - Example: 1TB HDD.
 #### b) Solid State Drive (SSD):
-- Uses flash memory to store data (no moving parts).
-- Advantages: Faster, more durable, energy-efficient.
-- Disadvantages: More expensive per gigabyte than HDDs.
+Uses flash memory to store data (no moving parts).
+- **Advantages:** Faster, more durable, energy-efficient.
+- **Disadvantages:** More expensive per gigabyte than HDDs.
 - Example: 500GB SSD.
 #### c) USB Flash Drive:
 - Portable storage device that connects via USB.
-- Advantages: Small, portable, easy to use.
-- Disadvantages: Limited capacity compared to HDDs/SSDs.
+- **Advantages:** Small, portable, easy to use.
+- **Disadvantages:** Limited capacity compared to HDDs/SSDs.
 - Example: 64GB USB drive.
 #### d) Memory Cards:
 - Used in cameras, smartphones, and other portable devices.
